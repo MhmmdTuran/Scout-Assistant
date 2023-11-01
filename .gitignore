@@ -135,11 +135,3 @@ ui-tests/playwright-report
 .pnp.*
 ui-tests/.yarn/*
 ui-tests/.pnp.*
-
-.vscode
-venv 
-node_modules
-
-ML/training_set
-ML/trainedfilelist.txt
-ML/training_models
